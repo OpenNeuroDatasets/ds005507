@@ -1,9 +1,0 @@
-{
-  "PowerLineFrequency": 60,
-  "TaskName": "surroundSupp",
-  "EEGReference": "Cz",
-  "RecordingType": "continuous",
-  "RecordingDuration": 753.0700000000001,
-  "SamplingFrequency": 500,
-  "SoftwareFilters": "n/a"
-}
