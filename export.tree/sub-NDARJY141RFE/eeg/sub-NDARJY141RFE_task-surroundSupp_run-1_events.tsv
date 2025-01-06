@@ -1,0 +1,17 @@
+onset	duration	sample	value	event_code	background	foreground_contrast	stimulus_cond
+0	n/a	0	break cnt	break cnt	n/a	n/a	n/a
+339.314	n/a	169657	surroundSuppB1_start	93	n/a	n/a	n/a
+340.864	n/a	170432	fixpoint_ON	4	n/a	n/a	n/a
+341.384	n/a	170692	stim_ON	8	n/a	n/a	n/a
+344.29	n/a	172145	fixpoint_ON	4	n/a	n/a	n/a
+344.802	n/a	172401	stim_ON	8	n/a	n/a	n/a
+347.71	n/a	173855	fixpoint_ON	4	n/a	n/a	n/a
+348.222	n/a	174111	stim_ON	8	n/a	n/a	n/a
+351.13	n/a	175565	fixpoint_ON	4	n/a	n/a	n/a
+351.642	n/a	175821	stim_ON	8	n/a	n/a	n/a
+354.55	n/a	177275	fixpoint_ON	4	n/a	n/a	n/a
+355.06	n/a	177530	stim_ON	8	n/a	n/a	n/a
+357.97	n/a	178985	fixpoint_ON	4	n/a	n/a	n/a
+358.48	n/a	179240	stim_ON	8	n/a	n/a	n/a
+361.39	n/a	180695	fixpoint_ON	4	n/a	n/a	n/a
+361.9	n/a	180950	stim_ON	8	n/a	n/a	n/a

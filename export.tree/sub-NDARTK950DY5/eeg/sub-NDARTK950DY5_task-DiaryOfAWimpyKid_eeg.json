@@ -1,0 +1,9 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "DiaryOfAWimpyKid",
+  "EEGReference": "Cz",
+  "RecordingType": "continuous",
+  "RecordingDuration": 119.04,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
